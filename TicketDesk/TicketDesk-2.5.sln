@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.22823.1
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketDesk.Web.Client", "TicketDesk.Web.Client\TicketDesk.Web.Client.csproj", "{4DE41C1E-3E56-480E-9C88-0A4D6BACC798}"
 EndProject
@@ -47,50 +47,73 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketDesk.PushNotification
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		azure|Any CPU = azure|Any CPU
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DE41C1E-3E56-480E-9C88-0A4D6BACC798}.azure|Any CPU.ActiveCfg = azure|Any CPU
+		{4DE41C1E-3E56-480E-9C88-0A4D6BACC798}.azure|Any CPU.Build.0 = azure|Any CPU
 		{4DE41C1E-3E56-480E-9C88-0A4D6BACC798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4DE41C1E-3E56-480E-9C88-0A4D6BACC798}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DE41C1E-3E56-480E-9C88-0A4D6BACC798}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DE41C1E-3E56-480E-9C88-0A4D6BACC798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD5279B-9F1C-4915-86A9-6A8F1CF0622D}.azure|Any CPU.ActiveCfg = azure|Any CPU
+		{DBD5279B-9F1C-4915-86A9-6A8F1CF0622D}.azure|Any CPU.Build.0 = azure|Any CPU
 		{DBD5279B-9F1C-4915-86A9-6A8F1CF0622D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DBD5279B-9F1C-4915-86A9-6A8F1CF0622D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBD5279B-9F1C-4915-86A9-6A8F1CF0622D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBD5279B-9F1C-4915-86A9-6A8F1CF0622D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A85D9882-1DB3-40EC-A23E-6B4562F48BCF}.azure|Any CPU.ActiveCfg = azure|Any CPU
+		{A85D9882-1DB3-40EC-A23E-6B4562F48BCF}.azure|Any CPU.Build.0 = azure|Any CPU
 		{A85D9882-1DB3-40EC-A23E-6B4562F48BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A85D9882-1DB3-40EC-A23E-6B4562F48BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A85D9882-1DB3-40EC-A23E-6B4562F48BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A85D9882-1DB3-40EC-A23E-6B4562F48BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD3617C2-A91E-40F3-A441-B085D2491399}.azure|Any CPU.ActiveCfg = azure|Any CPU
+		{BD3617C2-A91E-40F3-A441-B085D2491399}.azure|Any CPU.Build.0 = azure|Any CPU
 		{BD3617C2-A91E-40F3-A441-B085D2491399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BD3617C2-A91E-40F3-A441-B085D2491399}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD3617C2-A91E-40F3-A441-B085D2491399}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD3617C2-A91E-40F3-A441-B085D2491399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9477C13-68C4-43E0-A30B-F06F444C5358}.azure|Any CPU.ActiveCfg = azure|Any CPU
+		{D9477C13-68C4-43E0-A30B-F06F444C5358}.azure|Any CPU.Build.0 = azure|Any CPU
 		{D9477C13-68C4-43E0-A30B-F06F444C5358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D9477C13-68C4-43E0-A30B-F06F444C5358}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9477C13-68C4-43E0-A30B-F06F444C5358}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9477C13-68C4-43E0-A30B-F06F444C5358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C97321-F0CC-4AF9-86E6-95E0E4840430}.azure|Any CPU.ActiveCfg = azure|Any CPU
+		{F8C97321-F0CC-4AF9-86E6-95E0E4840430}.azure|Any CPU.Build.0 = azure|Any CPU
 		{F8C97321-F0CC-4AF9-86E6-95E0E4840430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F8C97321-F0CC-4AF9-86E6-95E0E4840430}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8C97321-F0CC-4AF9-86E6-95E0E4840430}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8C97321-F0CC-4AF9-86E6-95E0E4840430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE284CB5-BF8B-4B51-A865-F2AB7BEA2D02}.azure|Any CPU.ActiveCfg = azure|Any CPU
+		{BE284CB5-BF8B-4B51-A865-F2AB7BEA2D02}.azure|Any CPU.Build.0 = azure|Any CPU
 		{BE284CB5-BF8B-4B51-A865-F2AB7BEA2D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BE284CB5-BF8B-4B51-A865-F2AB7BEA2D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE284CB5-BF8B-4B51-A865-F2AB7BEA2D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE284CB5-BF8B-4B51-A865-F2AB7BEA2D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54390F7F-A440-40F7-8B1A-28AB599A5213}.azure|Any CPU.ActiveCfg = azure|Any CPU
+		{54390F7F-A440-40F7-8B1A-28AB599A5213}.azure|Any CPU.Build.0 = azure|Any CPU
 		{54390F7F-A440-40F7-8B1A-28AB599A5213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{54390F7F-A440-40F7-8B1A-28AB599A5213}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54390F7F-A440-40F7-8B1A-28AB599A5213}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54390F7F-A440-40F7-8B1A-28AB599A5213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA72A1AA-6F1A-4D5F-B98B-FD73F5407563}.azure|Any CPU.ActiveCfg = azure|Any CPU
+		{CA72A1AA-6F1A-4D5F-B98B-FD73F5407563}.azure|Any CPU.Build.0 = azure|Any CPU
 		{CA72A1AA-6F1A-4D5F-B98B-FD73F5407563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CA72A1AA-6F1A-4D5F-B98B-FD73F5407563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA72A1AA-6F1A-4D5F-B98B-FD73F5407563}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA72A1AA-6F1A-4D5F-B98B-FD73F5407563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E3B1AF8-762D-4B69-84C3-C79E74AA9C82}.azure|Any CPU.ActiveCfg = azure|Any CPU
+		{6E3B1AF8-762D-4B69-84C3-C79E74AA9C82}.azure|Any CPU.Build.0 = azure|Any CPU
 		{6E3B1AF8-762D-4B69-84C3-C79E74AA9C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6E3B1AF8-762D-4B69-84C3-C79E74AA9C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E3B1AF8-762D-4B69-84C3-C79E74AA9C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E3B1AF8-762D-4B69-84C3-C79E74AA9C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{508F4CF5-960F-4779-A05F-C9B60986D279}.azure|Any CPU.ActiveCfg = azure|Any CPU
+		{508F4CF5-960F-4779-A05F-C9B60986D279}.azure|Any CPU.Build.0 = azure|Any CPU
 		{508F4CF5-960F-4779-A05F-C9B60986D279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{508F4CF5-960F-4779-A05F-C9B60986D279}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{508F4CF5-960F-4779-A05F-C9B60986D279}.Release|Any CPU.ActiveCfg = Release|Any CPU
